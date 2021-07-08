@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @bclyde95
+# 👋 Hi, I’m @bclyde95
 - 👀 I’m interested in IOT, smart devices, hardware design, automation, and I guess web dev too
 - 🌱 I’m currently learning React, so my life can be easier
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email me at bclyde9514@gmail.com.
 
 <!---
